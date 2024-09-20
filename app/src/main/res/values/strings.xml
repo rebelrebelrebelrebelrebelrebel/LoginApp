@@ -19,4 +19,17 @@
     <string name="ingresa_tu_contraseña">Ingresa tu contraseña</string>
     <string name="confirma_tu_contraseña">Confirma tu contraseña</string>
     <string name="registrar">Registrar</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="inicio">Inicio</string>
+    <string name="perfil">Perfil</string>
+    <string name="historial">Historial</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="bienvenid">Bienvenid@</string>
+    <string name="explora_las_funcionalidades_de_nuestra_aplicaci_n">Explora las funcionalidades de nuestra aplicación.</string>
+    <string name="about_activity">About Activity</string>
+    <string name="settings_activity">Settings Activity</string>
+
 </resources>
