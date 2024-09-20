@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988194960004",
+    "project_id": "myloginapp-50b10",
+    "storage_bucket": "myloginapp-50b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988194960004:android:694761a7eb4946ac0988d1",
+        "android_client_info": {
+          "package_name": "com.rebel.myloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZTQdyOVzDrqtLeSIdaTf-1GrRMTKLWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

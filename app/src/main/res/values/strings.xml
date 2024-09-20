@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="login">Login</string>
+    <string name="register">Registrar</string>
+    <string name="Inicio">Inicio de Sesión</string>
+    <string name="ingresa_tus_datos_para_registrarte">Ingresa tus datos para Registrarte</string>
+    <string name="nombre_completo">Nombre*</string>
+    <string name="ingresa_tu_nombre_completo">Ingresa tu nombre completo</string>
+    <string name="email">Email*</string>
+    <string name="ingresa_email">Ingresa email</string>
+    <string name="ingresa_fecha_de_nacimiento_dd_mm_yyyy">Ingresa fecha de nacimiento (dd/mm/yyyy)</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento (dd/mm/yyyy)*</string>
+    <string name="genero">Género*</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="telefono">Teléfono*</string>
+    <string name="ingresa_tu_numero_telefonico">Ingresa tu número telefónico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresa_tu_contraseña">Ingresa tu contraseña</string>
+    <string name="confirma_tu_contraseña">Confirma tu contraseña</string>
+    <string name="registrar">Registrar</string>
+</resources>

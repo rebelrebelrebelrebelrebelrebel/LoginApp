@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fab_icon_color">#FFFFFF</color>
+    <color name="colorPrimary">#27276F</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorBackground">#1F1F59</color>
+</resources>
