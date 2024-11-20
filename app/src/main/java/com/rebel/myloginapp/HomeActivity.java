@@ -49,7 +49,10 @@ public class HomeActivity extends MenuMainActivity implements NavigationView.OnN
         navigationMap = new HashMap<>();
         navigationMap.put(R.id.nav_home, () -> Toast.makeText(this, "Inicio seleccionado", Toast.LENGTH_SHORT).show());
         navigationMap.put(R.id.nav_profile, () -> Toast.makeText(this, "Perfil seleccionado", Toast.LENGTH_SHORT).show());
-        navigationMap.put(R.id.nav_history, () -> Toast.makeText(this, "Historial seleccionado", Toast.LENGTH_SHORT).show());
+        navigationMap.put(R.id.nav_history, () -> {
+            Intent intent = new Intent(HomeActivity.this, HistoryActivity.class);
+            startActivity(intent);
+        });
         navigationMap.put(R.id.nav_logout, () -> {
             FirebaseAuth.getInstance().signOut();
             startActivity(new Intent(HomeActivity.this, LoginActivity.class));
